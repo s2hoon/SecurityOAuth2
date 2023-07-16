@@ -1,7 +1,6 @@
-package com.example.SecurityOAuth2.controller;
+package com.example.SecurityOAuth2.SimpleVersion;
 
 
-import com.example.SecurityOAuth2.domain.OAuthToken;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

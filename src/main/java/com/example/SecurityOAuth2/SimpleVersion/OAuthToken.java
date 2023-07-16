@@ -1,4 +1,4 @@
-package com.example.SecurityOAuth2.domain;
+package com.example.SecurityOAuth2.SimpleVersion;
 
 import lombok.Data;
 
